@@ -1,2 +1,4 @@
 # userList
- stores the list of users
+ This project stores the list of users.
+ The project entails working with React states, componenets, Fragments and Refs.
+ 
